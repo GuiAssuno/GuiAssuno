@@ -1,6 +1,6 @@
 # Hi there! [cite_start]👋 I'm Guilherme Assunção Barboza [cite: 7]
 
-[cite_start]I am a developer driven by the intersection of hardware and software[cite: 10]. [cite_start]Currently, I am an SAP ABAP Developer Intern [cite: 24][cite_start], while also pursuing a Technology Degree in Systems Analysis and Development at Fatec Ribeirão Preto[cite: 49, 50].
+[cite_start] I am a developer driven by the intersection of hardware and software[cite: 10]. [cite_start]Currently, I am an SAP ABAP Developer Intern [cite: 24][cite_start], while also pursuing a Technology Degree in Systems Analysis and Development at Fatec Ribeirão Preto[cite: 49, 50].
 
 [cite_start]With a solid background in mechanical systems and industrial automation, I bring a unique perspective to software engineering[cite: 11]. [cite_start]My 4-year background as an automotive mechanic honed my analytical skills in troubleshooting complex systems[cite: 18]. [cite_start]I apply this diagnostic mindset daily to debugging and optimizing code[cite: 18].
 

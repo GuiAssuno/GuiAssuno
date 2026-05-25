@@ -11,21 +11,6 @@ With a solid background in mechanical systems and industrial automation, I bring
 * **Industrial Automation:** I have practical experience assembling complex electrical control panels for industrial environments. I have gained exposure to industrial robotic environments and hardware-software integration.
 * **Geospatial Data:** I worked handling hyperspectral imagery and Geospatial Data in QGIS for precision agriculture.I managed data quality workflows for a multinational company following international standards.
 
-## Featured Projects & Interests
-
-I am passionate about Embedded Systems, Backend Development, and Robotics. Here is a look at what I have been building:
-
-* **Bento-XVI (Python):** An onboard virtual assistant designed specifically for a classic Opala Comodoro 82.
-* **hoverboar-firmware & mr_robot (C/C++):** Low-level firmware development highlighting my passion for embedded systems and hardware control.
-* **amigo-eu-estou-aqui (Dart):** An application aimed at helping NGOs, volunteers, and animals find a home.
-* **screenshot-speech & computer-vision (Python):** Tools exploring OCR and image processing, including transforming screenshot text into audio files.
-* **Algorithms & Data (Python):** Projects like `analysis-sort` (analyzing sorting algorithms) and `estatistica-sorteio` (analyzing statistics for random lottery number generation).
-* **chess (Python):** Creating an AI capable of playing chess.
-
-## Let's Connect
-
-I am constantly improving my skills and seeking international opportunities where I can apply my multidisciplinary expertise to solve real-world engineering challenges.
-
 * **LinkedIn:** [guilherme-assuno-barboza](https://www.linkedin.com/in/guilherme-assuno-barboza)
 * **Email:** guilhermeassuncaoba@gmail.com
 * **LeetCoder:** [leetcode.com/guiassuno/](https://leetcode.com/u/guiassuno/)

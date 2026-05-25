@@ -28,3 +28,5 @@ I am constantly improving my skills and seeking international opportunities wher
 
 * **LinkedIn:** [guilherme-assuno-barboza](https://www.linkedin.com/in/guilherme-assuno-barboza)
 * **Email:** guilhermeassuncaoba@gmail.com
+* **LeetCoder:** [leetcode.com/guiassuno/](https://leetcode.com/u/guiassuno/)
+* **BeeCrod:** [beecrowd.com/GuiAssuno](https://judge.beecrowd.com/pt/profile/1233804)
